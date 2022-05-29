@@ -2,6 +2,10 @@
 
 動画とサムネイルのプログラム本体が見たい方は[こちら](/src/Composition.tsx)へどうぞ
 
+## 自前でレンダリングする方法
+
+TODO: 数日以内ぐらいに書きます
+
 # Remotion video
 
 <p align="center">
