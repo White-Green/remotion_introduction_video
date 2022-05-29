@@ -1,3 +1,7 @@
+# 多分誰も真似しない理工サイド動画のつくりかた の元プログラム
+
+動画とサムネイルのプログラム本体が見たい方は[こちら](/src/Composition.tsx)へどうぞ
+
 # Remotion video
 
 <p align="center">
