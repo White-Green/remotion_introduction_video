@@ -1,0 +1,17 @@
+/*
+!/.gitignore
+!/src
+!/素材
+!/character_image_settings.json
+!/package.json
+!/yarn.lock
+!/tsconfig.json
+!/setup_psdtool_server.ps1
+!/setup_script.ps1
+!/script.yaml
+!/remotion.config.ts
+!/README.md
+!/voices
+!/.prettierrc
+!/.eslintrc
+!/LICENSE

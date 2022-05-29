@@ -1,0 +1,1 @@
+psdtool_server character_image_settings.json

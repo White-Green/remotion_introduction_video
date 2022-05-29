@@ -1,0 +1,6 @@
+{
+  "fee": {
+    "psd": "素材/im10858158.psd",
+    "layers_out": "src/CharacterImage/fee_layers.ts"
+  }
+}

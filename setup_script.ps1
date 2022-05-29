@@ -1,0 +1,1 @@
+yaml_script_processor --cevioai voices/cevioai/トーク１ --json voices/voices.json --typescript voices/voices.ts --script script.yaml
